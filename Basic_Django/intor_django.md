@@ -156,3 +156,10 @@ You will see Django's beautiful welcome page with a rocket ship 🚀
 Proof you're a real web developer now.
 
 This page is served by Django itself — no HTML file written yet!
+
+
+
+<hr>
+<h1 align="center">Congratulations! 🎉</h1 >
+<h3 align="center">You have successfully set up Django and created your first project!</h3>
+<hr>
